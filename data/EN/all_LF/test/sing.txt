@@ -1,0 +1,15 @@
+artillery	piece
+talks	round
+drug	dose
+advice	piece
+illness	bout
+shit	turd
+chess	chessman
+laughter	outburst
+cold	snap
+smoke	puff
+opportunity	window
+jealousy	stab
+bread	loaf
+nation	country
+artillery	cannon

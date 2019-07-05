@@ -1,0 +1,57 @@
+film	exposure
+snow	snowshower
+public	attendee
+laughter	hoot
+luck	stroke
+stairs	step
+delegation	member
+laughter	peal
+money	wad
+unrest	wave
+audience	member
+snow	blast
+milk	carton
+jealousy	pang
+negotiations	round
+wool	flock
+dust	grain
+soap	cake
+grass	blade
+magic	trick
+cold	spell
+toothpaste	tube
+armed forces	unit
+delegation	delegate
+love	affair
+automatic fire	burst
+soap	bar
+artillery	gun
+lightning	bolt
+train	car
+smoke	pall
+wind	gust
+defecation	bowel movement
+heat	heat wave
+medication	dose
+hail	hailstone
+pepper	peppercorn
+garlic	head
+sweat	bead
+traffic	car
+coffee	bean
+jealousy	twinge
+train	carriage
+terror	act
+lightning	flash
+information	piece
+milk	packet
+train	coach
+anger	burst
+smoke	column
+electricity	discharge
+anger	gust
+fraud	scam
+dust	speck
+sugar	cube
+corn	ear
+smoke	billow

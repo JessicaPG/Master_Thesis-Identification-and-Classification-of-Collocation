@@ -1,0 +1,4 @@
+Historia	momento
+agua	gotas
+fútbol	partido
+trabajo	puestos

@@ -1,0 +1,120 @@
+campaign 	ignite
+appearance	give
+fire	touch off
+anger	provoke
+difficulties	cause
+uproar	set off
+evidence	provide
+conference	hold
+agreement	lead
+crisis	touch off
+tone	set
+minefield	lay
+miracle	perform
+association	conjure
+anger	arouse
+meeting	convene
+shower	have
+suspicion	spark
+interest	start
+problem	create
+outcry	stir
+possibility	raise
+food	make
+bad blood	create
+roadblock	throw up
+foundation	lay
+confidence	build
+debate	spur
+disruption	cause
+fight	spark
+ruckus	create
+committee	strike
+condition	lay down
+coffee	brew
+order	impose
+debate	spark
+outcry	lead
+record	set
+elections	hold
+outrage	cause
+proof	give
+crowd	draw
+term	coin
+path	chart
+fire	build
+mine	lay
+violence	ignite
+example	adduce
+agreement	trigger
+option	open
+profit	make
+energy	release
+damage	wrought
+list	make
+law	lay down
+damage	cause
+protest	spark
+alarm	raise
+discussion	spark off
+furor	ignite
+panic	sow
+relief	relieve
+mine	plant
+speculation	prompt
+stage	set
+need	create
+aliance	forge
+anger	stir up
+relief	bring
+rule	lay down
+red herring	plant
+balance	strike
+death	claim NUM fatalities
+groundwork	lay
+steak	cook
+alarm	prompt
+profit	turn
+parallel	draw
+red herring	lay
+fire	set
+example	cite
+rumors	arouse
+evidence	give
+question	raise
+egg	lay
+timetable	set
+file	keep
+victim	claim
+list	draw up
+fears	raise
+objection	raise
+demonstration	touch off
+fatalities	causes
+notes	jot
+emotion	stir
+momentum	build up
+press conference	hold
+rule	impose
+bridge	throw
+expectations	raise
+track	leave
+schedule	set
+death	claim NX’s life
+tissue	weave
+bad blood	make
+evidence	uncover
+search	spark
+picture	brush
+panic	stir
+question	raise
+miracle	work
+income	generate
+result	derive
+wonders	work
+breakthrough	bring
+gossip	carry
+precedent	set
+anger	light the (blue) touchpaper
+offensive	mount
+perpendicular	drop

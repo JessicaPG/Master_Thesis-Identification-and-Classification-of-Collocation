@@ -1,0 +1,64 @@
+number	dial
+benefit	derive
+moth	have
+company	keep
+dice	roll
+snag	hit
+bar	tend
+aircraft	pilot
+caution	exercise
+convention	follow
+plan	go through
+photograph	develop
+opinion	share
+case	win
+line	follow
+price	pay
+mortars	lob
+music	play
+opinion	opine
+birthday	celebrate
+red light	stop
+medal	award
+key	hit
+telephone	use
+tradition	stand in
+store	keep
+God	worship
+purpose	of set
+commitment	live up
+trigger	squeeze
+urine	urinate
+instructions	follow
+cancer	succumb
+purpose	on
+theory	hold
+tear gas	throw
+frustration	vent
+pride of place	have
+switch	flip
+flag	fly
+principle	follow
+duty	fulfill
+course of action	pursue
+commitment	meet
+bomb	drop
+blister	have
+arrest	detain
+parachute	parachute
+uniform	wear
+path	follow
+ballot	cast
+command	execute
+plane	pilot
+fire	go up in flames
+details	give
+gift	offer
+urine	pass
+address	deliver
+trigger	press
+hunger	satisfy
+session	attend
+nut	crack
+prize	award
+principle	satisfy

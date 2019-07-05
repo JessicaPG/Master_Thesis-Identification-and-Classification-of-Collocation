@@ -1,0 +1,11 @@
+sol	rayos
+protesta	acto
+mus	partida
+mus	partidas
+avena	copos
+viento	ráfagaedad	años
+humo	bocanadas
+nieve	copos
+sol	rayo
+cerveza	latas
+ginebra	botella

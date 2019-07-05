@@ -1,0 +1,499 @@
+swing	sharp
+stand	foursquare
+loyalty	unflinchibng
+success	runaway
+full	to overflowing
+worried	terribly
+threaten	gravely
+drink	heavily
+energy	awesome
+threat	advanced
+critic	fierce
+commitment	steadfast
+defy	blatantly
+short	desperately
+perplexed	greatly
+await	eagerly
+measurements	elaborate
+lie	big
+communication	close
+please	enormously
+need	glaring
+match	perfect
+combat	ferocious
+attention	uppermost
+scrutiny	close
+interrogation	close
+grow	by the day
+cough	nagging
+investigation	intense
+trade	booming
+threat	strident
+disappointment	bitter
+contempt	bitter
+problem	big
+discussion	spirited
+distress	grave
+resemble	like two drops of water
+applaud	warmly
+sorry	deeply
+personality	strong
+influential	tremendously
+liar	hopeless
+benefit	enormous
+lie	bald-faced
+shake	to the core
+extent	large
+full	chock
+drink	like a fish
+sigh	huge
+engaged	deeply
+fit	as a fiddle
+frightened	to death
+doubt	serious
+heat	intense
+advantage	important
+quake	massive
+boring	dead
+restrictions	tight
+master	seasoned
+want	badly
+action	drastic
+resilience	great
+work	[NX’s] guts out
+breeze	stiff
+contrast	stark
+show	clearly
+new	spanking
+behind	firmly
+noise	deafening
+quake	huge
+question	difficult
+help	substantive
+new	stunning
+collaborate	hand-in-hand
+follow	closely
+laughter	uproarious
+lie	brazen
+profits	hefty
+thirst	scorching
+mistaken	royally
+friend	staunch
+shoot	fatally
+interest	great
+thunderstorm	severe
+disturbed	deeply
+argument	clinching
+regret	bitterly
+stranger	perfect
+security	tense
+condition	stringent
+well	full
+anger	deep
+challenge	great
+praise	unstinting
+want	desperately
+fury	ferocious
+mad	hopping
+believer	huge
+forget	plumb
+traffic	bustling
+famine	wide-spread
+educated	highly
+sceptical	somewhat
+surprise	complete
+raid	heavy
+lean	heavily
+eater	hearty
+action	harsh
+regret	terrible
+income	big
+drink	as a sponge
+competition	tough
+complicated	immensely
+coffee	strong
+composure	steely
+witness	first-hand
+rob	blind
+beer	strong
+reveal	clearly
+scared	vulg shitless
+speed	high
+damage	cataclismic
+hit	severely
+defeat	total
+related	tightly
+joy	overwhelming
+strong	as a horse
+battle	great
+attack	tremendous
+sigh	deep
+cry	buckets
+sweet	as honey
+feel	in NX’s bones
+peril	great
+credence	great
+squeak	shrilly
+opposed	strongly
+oppose	adamantly
+reform	sweeping
+ecstasy	sheer
+blow	fatal
+loan	huge
+push	hard
+interest	close
+number	record-breaking
+rain	forceful
+increase	dramatic
+animosity	strong
+desire	strong
+idiot	blistering
+heat	searing
+failure	astounding
+dead	as a doornail
+cut	deep
+epidemic	major
+suffering	severe
+work	like a Trojan
+scrutiny	intense
+cool	as a cucumber
+wit	sparkling
+violation	stark
+tax	hefty
+search	high and low
+bald	as an egg
+easy	as 1
+official	high-ranking
+attention	careful
+rested	completely
+miss	poignantly
+necessity	dire
+refuse	flatly
+undermine	seriously
+concerned	deeply
+available	widely
+greet	warmly
+important	vitally
+victory	resounding
+clouds	heavy
+failure	fatal
+matter	terribly
+grin	rare wide
+role	decisive
+suffering	extreme
+reaviling	particularly
+reminder	stark
+pressure	severe
+demand	high
+limit	severely
+bargain	hard
+respect	highest
+experience	rich
+concerned	intensely
+clear	crystal
+blush	furiosly
+depth	fathomless
+attack	savage
+invention	from start to finish
+progress	rapid
+horizons	broad
+guard	zealously
+tired	bone
+grounds	solid
+insight	revealing
+free	as air
+scare	hair-raising
+bottom	rock
+thank you	very much
+foundation	firm
+bad	monstrous
+hot	boiling
+warning	strong
+chatter	nineteen to the dozen
+experience	extended
+support	firm
+error	fundamental
+believer	staunch
+debated	hotly
+combat	rude
+selection	vast
+problem	enormous
+extreme	unprecedented
+good	angelically
+believe	fervently
+peeve	pet
+different	basically
+best	under the sun
+differ	greatly
+rule	stiff
+North	High
+tradition	deep-rooted
+criticism	heavy
+wound	critical
+minimum	bare
+start	from scratch
+disease	serious
+rebuke	sharp
+fact	well-established
+injustice	grave
+sick	to [A(poss)(NX) stomach]
+ecstasy	pure
+rascal	of pure water
+cry	unconsolably
+beauty	breathtaking
+apart	poles
+involved	closely
+decline	greatly
+care	very much
+attack	sharp
+obey	strictly
+rise	sharply
+participation	dedicated
+rich	fabulously
+exaggerated	greatly
+priority	top
+silence	of the tomb
+link	narrow
+scary	as hell
+attention	close
+role	vital
+blush	painfully
+thirst	unquenchable
+exceed	much
+illness	grave
+frown	deep
+argument	knock-down
+revenge	terrible
+lunatic	raving
+problem	serious
+dangerous	extremely
+classification	detailed
+forget	entirely
+right	unquestionably
+believe	staunchly
+pain	gut-wrenching
+cute	as a bug’s ear
+question	haunting
+success	thundering
+shocking	deeply
+acclaim	world-wide
+cold	freezing
+conclusion	inescapable
+populated	densely
+past	remote
+share	lion’s
+reaction	severe
+welcome	warmly
+confidence	complete
+contradiction	flagrant
+silent	as the grave
+speed	lightning
+brave	as a lion
+pressure	enormous
+conservative	diehard
+precision	great
+leap	big
+challenge	closely
+bad	garish
+intertwined	closely
+position	important
+consequence	serious
+liar	arrant
+variegated	highly
+temperature	high
+sanctions	tough
+temperature	high
+poor	wretchedly
+shower	heavy
+aware	deeply
+beating	brutal
+difference	key
+stand	foursquare
+river	big
+laugh	good
+number	sizable
+work	closely
+support	strong
+success	smashing
+exceed	largely
+agreed	universally
+speculation	purest
+interest	serious
+distort	beyond all recognition
+surprise	great
+beautiful	spectacularly
+classification	exhaustive
+poor	as a churchmouse
+distortion	gross
+depleted	painfully
+need	imperative
+condolences	deepest
+task	hard
+headache	big
+combat	mortal
+injured	lethally
+suspicion	strong
+blood pressure	high
+classified	highly
+difference	significant
+relax	chill out
+hug	tight
+role	prominent
+criticize	vigorously
+conclusion	key
+ignorance	blistering
+collaborate	closely
+risk	high
+fact	irrefutable
+thief	arrant
+dispute	hotly
+threat	mortal
+toll	heavy
+warning	stern
+rival	bitter
+consider	carefully
+gratitude	deep
+armed	heavily
+illness	serious
+passion	all-consuming
+contrast	sharp
+flawed	deeply
+wound	gaping
+weight	large
+fail	badly
+transformation	deep
+measure	tough
+attack	from all sides
+damage	extensive
+violate	flagrantly
+lose	completely
+sell	like hot cakes
+interest	passionate
+ugly	as sin
+contempt	profound
+stand	firmly
+admiration	boundless
+agree	cannot agree more
+concern	great
+utilize	widely
+snoring	loud
+addictive	highly
+distrust	deep
+treatment	thorough
+scream	piercing
+fine	stiff
+appreciate	deeply
+cut	sharp
+drink	avidly
+deficit	huge
+rainstorm	violent
+price	exorbitant
+access	unfettered
+disaster	colossal
+spotlight	harsh
+turn	sharp
+parade	ticker tape
+straight	as a die
+commited	strongly
+revenge	awful
+hole	huge
+catastrophe	huge
+tired	to the bone
+objection	powerful
+tension	high
+smile	big
+sick	as hell
+ovation	standing
+into	smack
+influence	deeply
+support	unshakable
+profits	fat
+behind	solidly
+majority	huge
+agreement	full
+contradiction	flat
+debt	unpayable
+expectations	great
+alcohol	strong
+hot	as fire
+care	like hell
+tight	as a drum
+patience	unceasing
+rich	infml stinking
+vomiting	severe
+pleasure	utmost
+alignment	strong
+decorated	highly
+gentle	as a lamb
+assumed	widely
+rise	sharp
+stupidity	enormous
+skinny	as a rail
+argument	cogent
+shame	deep
+mistake	huge
+vary	greatly
+wrong	terribly
+sure	as God made little apples
+admire	greatly
+riposte	devastating
+protest	sharp
+plain	as the nose on your face
+blow	severe
+triumph	stunning
+many	a great
+penalty	stiff
+mistake	fatal
+restricted	tightly
+lucrative	highly
+rule	hard
+blow	softly
+pursue	vigorously
+gains	significant
+resolve	unshakable
+concern	serious
+vary	drastically
+liar	inveterate
+pain	keen
+class	large
+decline	dramatic
+grip	iron
+war	full scale
+impacted	heavily
+shortage	acute
+fog	heavy
+busy	as as a bee
+gap	yawning
+question	a million dollar
+sleep	heavily
+thin	as a rake
+blush	profusely
+evidence	dramatic
+fill	to capacity
+concession	significant
+cut	big
+criticism	harsh
+hardship	severe
+hurt	like hell
+battle	hard
+handshake	firm
+sick	as a dog
+contempt	open
+storm	driving
+preferable	far
+struggle	bitter
+place	prominent
+amazement	utter
+fool	arrant
+work	plug away
+drunk	as a lord
+responsibility	complete
+security	heavy
+complexity	mind-boggling
+appetite	voracious
+scream	wild
+carry out	to the letter
+bill	huge
+sick	to the soul
+sunshine	sparkling
+crime	brutal

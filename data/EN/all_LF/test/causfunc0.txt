@@ -1,0 +1,30 @@
+hole	knock
+beer	brewV
+release	secure
+link	make
+key	cut
+crisis	spark
+fire	start
+toll	take
+fruit	bear
+mess	make
+problem	give rise
+anger	spark
+date	set
+amusement	cause
+boundaries	set
+example	examplify
+picture	give
+funds	raise
+example	set
+shockwave	send
+consensus	develop
+rumors	stir
+condition	pose
+rumors	send tongues wagging
+shock	create
+unrest	spark
+problem	cause
+tournament	hold
+effect	produce
+crisis	create

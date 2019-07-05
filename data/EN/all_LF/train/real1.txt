@@ -1,0 +1,252 @@
+plug	pull
+match	strike
+dish	do
+mailbox	empty
+commitment	honor
+line	follow
+tradition	observe
+toilet	flush
+policy	conduct
+fury	vent
+language	speak
+pool	shoot
+promise	make good
+prize	give
+cards	shuffle
+firearm	blast away
+safe haven	find
+perfume	wear
+bedpan	carry
+award	present
+surface	rise
+button	push
+seat belt	fasten
+target	strike
+trigger	pull
+label	stick
+shoot	hit
+shop	run
+letter	send
+trap	set
+duty	carry out
+point	score
+chair	hold
+heed	take
+arrest	hold
+opportunity	take
+wish	get
+artillery	fire
+trap	lay
+diary	keep
+consequences	face
+scent	wear
+passport	hold
+command	carry out
+dream	fulfill
+animal	tend
+ambush	lay
+obligation	live up
+gun	fire
+drugs	do
+chasm	bridge
+schedule	respect
+bicycle	ride
+appointment	keep
+button	hit
+moth	be-infested
+threat	follow up
+chance	take
+goal	score
+place	place
+chord	strike
+bee	keep
+photo	develop
+mourning	be
+school	go
+price	pay
+gun	shoot
+promise	honor
+debt	pay off
+strategy	pursue
+passport	carry
+surface	break
+promise	deliver
+prize	offer
+key	push
+plan	pull off
+line	stand
+plan	fulfill
+horse	ride
+bill	foot
+rocket	fire
+wedge	drive
+lots	draw
+frustration	take out
+ritual	follow
+glasses	wear
+tradition	have
+threat	make good
+norm	observe
+pimple	pick
+luggage	pack
+pistol	fire
+pride of place	enjoy
+game	win
+tradition	uphold
+pimple	pop
+grade	give
+promise	live up
+tears	shed
+highway	take
+commitment	abide
+bed	be
+convention	observe
+smatterings	have
+exit	take
+parentheses	be included
+obligation	fulfill
+illness	succumb
+policy	follow
+purpose	by design
+tradition	follow
+chair	fill
+principle	apply
+debt	pay back
+threat	deliver
+meeting	attend
+ambush	set
+benefit	reap
+bead	draw
+need	satisfy
+knife	take
+sheep	tend
+hunger	quench
+shoot	kill
+brake	step
+dispute	resolve
+promise	fulfill
+obligation	meet
+right	enjoy
+bill	pay
+defeat	concede
+race	win
+instructions	execute
+bargain	hold up X's end
+vote	cast
+knife	sink
+principle	respect
+landing gear	lower
+threat	carry through
+time	take
+drum	drum
+peak	scale
+switch	flick
+duty	do
+net	cast
+drugs	take
+bet	win
+cattle	graze
+load	carry
+bounty on N’s head	have
+prisoner	capture
+sights	train
+ambush	lay
+whim	satidfy
+plan	carry out
+thesis	defend
+bath	take
+reading	take
+pride of place	hold
+grenade	lob
+behind bars	be
+prize	extend
+missile	launch
+promise	keep
+surface	surface
+invective	hurl
+cattle	tend
+possibility	grasp
+instinct	follow
+holiday	keep
+urine	pee
+aircraft	fly
+clothes	wear
+tear gas	use
+caution	use
+blank	fill in
+anchor	ride
+mark	give
+bill	pass
+tradition	respect
+guitar	play
+track	be
+possibility	jump
+lots	toss a coin
+badge	flash
+target	hit
+firearm	fire
+control	exert
+purpose	achieve
+pledge	keep
+policy	pursue
+bill	honor
+toast	proposed
+seatbelt	buckle up
+urine	urinate
+plan	execute
+missile	fire
+birthmark	have
+power	exert
+pattern	follow
+sights	set
+enema	give
+burn	go up in flames
+place of honor	hold
+brake	apply
+control	exercise
+plane	fly
+benefit	gain
+spear	drive
+detour	take
+budget	balance
+stamp	put
+rage	vent
+anchor	lie
+decision	follow through
+switch	throw
+motion	carry
+water	give
+imagination	exercise
+tryst	keep
+resources	harness
+business	run
+brake	set
+number	dial
+patient	treat
+word	keep
+patient	examine
+need	fulfill
+cards	play
+bounty on N’s head	put
+promise	stick
+secret	keep
+authority	wield
+mine	operate
+tear gas	launch
+peak	climb
+tradition	keep up
+shoot	wound
+listen	hear
+hunger	quell
+lots	cast
+drum	beat
+debt	repay
+port	call
+grain	grind
+wound	succumb
+attempt	succeed
+patient	see
+combat	win
+enema	rare do
+sweat	sweat
+duty	discharge
